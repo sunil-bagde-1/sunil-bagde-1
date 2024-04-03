@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunil-bagde-1
+- 👋 Hi, I’m sunil bagde
 
 <!---
 sunil-bagde-1/sunil-bagde-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
